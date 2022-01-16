@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx.Async", "UniRx.Async.csproj", "{3cbaa33a-e53c-c4e7-91e4-df23185ef1f5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx", "UniRx.csproj", "{d223d450-ea37-78e1-ce65-7c4ee5b677d5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{b18df1f3-0ec3-70ea-1eb6-cdf7f80e668f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniRx.Async.Editor", "UniRx.Async.Editor.csproj", "{493ebcb3-f35e-f1d4-8abf-2efe2ba982cf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{25f9868c-6bb3-b565-5f8f-82cd83e8a69d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3cbaa33a-e53c-c4e7-91e4-df23185ef1f5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3cbaa33a-e53c-c4e7-91e4-df23185ef1f5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d223d450-ea37-78e1-ce65-7c4ee5b677d5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d223d450-ea37-78e1-ce65-7c4ee5b677d5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b18df1f3-0ec3-70ea-1eb6-cdf7f80e668f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b18df1f3-0ec3-70ea-1eb6-cdf7f80e668f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493ebcb3-f35e-f1d4-8abf-2efe2ba982cf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493ebcb3-f35e-f1d4-8abf-2efe2ba982cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25f9868c-6bb3-b565-5f8f-82cd83e8a69d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25f9868c-6bb3-b565-5f8f-82cd83e8a69d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F3F18DB1-C30E-EA70-1EB6-CDF7F80E668F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SceneManager.cs">
+    <Files>
+      <File FileName="Assets/SceneManager.cs" Line="21" Column="73" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UserApp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="UnityMultipeerConnectivity" expanded="True">
+                <Node name="Plugins" expanded="True">
+                  <Node name="iOS" expanded="True">
+                    <Node name="NativeInterface" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="SceneManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="15d0677e-acdb-46e9-9347-a33a1fafcb24" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
